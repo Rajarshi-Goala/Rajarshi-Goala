@@ -3,7 +3,7 @@
 </div>  
  
 <h1 align="left">I'm Rajarshi Goala <a href = 'https://discordapp.com/users/Clouds_Kite#6614'> <img align="right" width = '32'  src="https://discord.com/assets/2d20a45d79110dc5bf947137e9d99b66.svg"> </a></h1>
-<h3 align="left">A potential software developer from India</h3>
+<h3 align="left">A potential full stack software developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
