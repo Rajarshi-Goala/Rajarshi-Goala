@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently an undergrad student of **Computer Science and Engineering @ Triguna Sen School of Technology, Assam University, Silchar - India.**
 
-- 🌱 I’m currently learning **Back End Web Development.**
+- 🌱 I’m currently learning **Practical Machine Learning and Basic Android Development**
 
 - 🏆 Winner of State Coding Competition, Assam - organised by Computer Society of India.  
   
